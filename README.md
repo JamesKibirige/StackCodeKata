@@ -1,2 +1,2 @@
 # StackCodeKata
-Code Kata to implement a Stack FIFO collection in C#
+Code Kata to implement a Stack LIFO collection in C#
